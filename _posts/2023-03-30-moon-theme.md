@@ -21,4 +21,4 @@ comments: true
 
 <iframe src="https://ghbtns.com/github-btn.html?user=TaylanTatli&repo=Moon&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>    
 
-1: Change NAVBAR Face Navigation Link.
+1: Change NAVBAR Face Navigation Link
