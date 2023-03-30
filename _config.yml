@@ -1,12 +1,12 @@
 # Site
-title:              Moon
-bio:                'Jonathan Burton-Barr'
-description:        ""
+title:              Jonathan Burton-Barr
+bio:                'PhD Student at NTU and A*STAR'
+description:        "PhD Student at NTU and A*STAR"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
 background:         'assets/img/mars.jpg'
-tiled_bg:           true   # Set this true if you want to tile your background image, otherwise it will be covered
+tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://taylantatli.github.io/Moon
 
