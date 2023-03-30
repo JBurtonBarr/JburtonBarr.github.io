@@ -1,6 +1,3 @@
-# JburtonBarr.github.io
-
-
 #navbar {
   background-color: #333; /* Black background color */
   position: fixed; /* Make it stick/fixed */
