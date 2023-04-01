@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "3D Modelling Hand Interaction"
-date:   2023-03-30
+date:   2023-04-01
 excerpt: "This project focused on a 3D modelling interface that employs a lightweight hand landmarking CV model"
 project: true
 tag:
