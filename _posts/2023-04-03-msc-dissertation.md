@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Application of Human Visual System Foveation and Association Influenced Attention to Computer Vision"
-date:   2023-04-04
+date:   2023-04-03
 excerpt: "This was the final project for my Computer Science MSc. As I have not refined the work for publishing yet I have put it in the projects section."
 project: true
 tag:
