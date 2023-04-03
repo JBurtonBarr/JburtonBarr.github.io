@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Computer Vision Camera"
-date:   2023-04-03
+date:   2023-03-28
 excerpt: "The raspberry-pi functions as a camera that makes COCO object detections which are saved to snapshots. This was one of the first CV-hardware projects I did."
 project: true
 tag:
