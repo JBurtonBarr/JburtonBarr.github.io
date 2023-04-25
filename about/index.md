@@ -1,12 +1,14 @@
 ---
 layout: page
 title: About
-tags: [about, Jekyll, theme, moon]
+tags: [about]
 date: 2023-03-30
 comments: false
 ---
 
 <b>Credit:</b> This website design is a custom version of Moon by <a href="https://github.com/TaylanTatli"><b>Taylan Tatli</b></a>
+
+<p><b>About me:</b></p>
 
 
 <p><b>Research Interests:</b>
