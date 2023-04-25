@@ -9,8 +9,7 @@ comments: false
 <b>Credit:</b> This website design is a custom version of Moon by <a href="https://github.com/TaylanTatli"><b>Taylan Tatli</b></a>
 
 
-<p><b>Research Interests:</b>
-<ul>
+<p><ul><b>Research Interests:</b>
   <li>Cognitively-Inspired AI</li>
   <li>Computer Vision</li>
   <li>AI-on-AI Control</li>
