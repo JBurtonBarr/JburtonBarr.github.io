@@ -11,7 +11,7 @@ comments: true
 
 In attempts to take a break from recent PhD stress I left my laptop in Singapore and did a solo trip to Langkawi. Actually the total price for flights and accomodation only came to $160 (SGD)! I had a great time there hiking, checking out the beaches, and a few drinks along the way. I didn't go with the goals of it being a social trip, I think this took the pressure off compared to my other solo travels which really helped me relax.
 <center><figure>
-    <a href="langkawi_post.png"><img src="langkawi_post.png"></a>
+    <img src="/images/langkawi_post.png">
     <figcaption>Just a few of my favourite views from Langkawi!</figcaption>
 </figure></center>
 ---
