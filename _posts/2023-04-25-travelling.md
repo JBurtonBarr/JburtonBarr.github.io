@@ -15,3 +15,11 @@ In attempts to take a break from recent PhD stress I left my laptop in Singapore
     <figcaption>Just a few of my favourite views from Langkawi!</figcaption>
 </figure></center>
 ---
+
+<center><b>Yogyakarta 17/02/2023</b></center>
+I had never flown to Indonesia before and wanted to see what it was like outside of the tourist hotspot Bali. Together with my partner we explored Yogyakarta and the surrounding areas visiting caves, beaches, cliffs, nature trails, aswell as the city itself. Really a brilliant place with great food too! Definitely try to visit if you get the chance. 
+<center><figure>
+    <img src="/images/yogyakarta_post.png">
+    <figcaption>Pictures taken in and around Yogyakarta</figcaption>
+</figure></center>
+---
