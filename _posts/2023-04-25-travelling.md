@@ -2,7 +2,7 @@
 layout: post
 title:  "Travelling"
 date:   2023-04-25
-excerpt: "A general log of some places I have been"
+excerpt: "Just a post where I've been jotting down my travels!"
 tag:
 - Travel
 comments: true
