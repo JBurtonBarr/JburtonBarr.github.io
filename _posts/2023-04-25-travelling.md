@@ -39,9 +39,10 @@ When I first came to Singapore the country was still under lockdown from covid. 
     <figcaption>The beach, the bar, and well, the beach</figcaption>
 </figure></center>
 ---
+<center><b>A map of where I've set foot</b></center>
 <center><figure>
     <img src="/images/fill_in_map.jpg">
-    <figcaption>A map of where I've set foot</figcaption>
+    <figcaption></figcaption>
 </figure></center>
 ---
 
