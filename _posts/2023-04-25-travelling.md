@@ -38,16 +38,4 @@ When I first came to Singapore the country was still under lockdown from covid. 
     <img src="/images/batam_post.png">
     <figcaption>The beach, the bar, and well, the beach</figcaption>
 </figure></center>
----
-
-
-
-
-<center><figure>
-    <img src="/images/fill_in_map.jpg">
-    <figcaption></figcaption>
-</figure></center>
-
-
-
 
