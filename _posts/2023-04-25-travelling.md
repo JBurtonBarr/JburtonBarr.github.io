@@ -23,3 +23,11 @@ I had never flown to Indonesia before and wanted to see what it was like outside
     <figcaption>Pictures taken in and around Yogyakarta</figcaption>
 </figure></center>
 ---
+
+<center><b>Thailand 17/06/2022</b></center>
+Honestly a great trip with some friends from the UK who came to visit me in Singapore. After a few days in SG we took our backpacks, flew to Phuket, rented a car, and drove up north to Bangkok over 12 days. Between Phuket and Bangkok we visited Khlong Phanom, Surat Thani, Koh Samui, Chumphon, and Hua Hin. Delighted to say, the entire car deposit was returned to us. 
+<center><figure>
+    <img src="/images/thailand_roadtrip.png">
+    <figcaption>Some roadtrip pictures from the Thailand trip!</figcaption>
+</figure></center>
+---
