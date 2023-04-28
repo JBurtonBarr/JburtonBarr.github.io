@@ -27,7 +27,15 @@ I had never flown to Indonesia before and wanted to see what it was like outside
 <center><b>Thailand 17/06/2022</b></center>
 Honestly a great trip with some friends from the UK who came to visit me in Singapore. After a few days in SG we took our backpacks, flew to Phuket, rented a car, and drove up north to Bangkok over 12 days. Between Phuket and Bangkok we visited Khlong Phanom, Surat Thani, Koh Samui, Chumphon, and Hua Hin. Delighted to say, the entire car deposit was returned to us. 
 <center><figure>
-    <img src="/images/thailand_roadtrip.png">
+    <img src="/images/thailand_roadtrip_post.png">
     <figcaption>Some roadtrip pictures from the Thailand trip!</figcaption>
+</figure></center>
+---
+
+<center><b>Batam 01/05/2022</b></center>
+When I first came to Singapore the country was still under lockdown from covid. In April 2022 things started opening up and myself and two PhD friends grabbed a boat over to the Indonesian island Batam. With our first set of exams over it was a great time to take a step back, chill out, and catch up. Batam's a pretty cool place and not somewhere I would have known about unless I had moved to Singapore. Next up, its neighbour island Bintan?!
+<center><figure>
+    <img src="/images/batam_post.png">
+    <figcaption>The beach, the bar, and well, the beach</figcaption>
 </figure></center>
 ---
